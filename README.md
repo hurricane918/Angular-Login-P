@@ -1,6 +1,6 @@
 # Angular Login Page
 
-<img src="/screenshots/Login-Page.jpg" />
+<img src="/screenshots/Login-Page.JPG" />
 
 <img src="/screenshots/Registration-Page.jpg" />
 
